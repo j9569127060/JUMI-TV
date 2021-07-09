@@ -79,8 +79,6 @@ http://ultra-premium-pro.xyz:8090/35megaplaytv/k1VGGuSC7c/37222
 http://ultra-premium-pro.xyz:8090/35megaplaytv/k1VGGuSC7c/51509
 #EXTINF:-1 tvg-id="" tvg-name="Argentina - TNT Sports FHD" tvg-logo="http://daleplay.biz:8080/images/0a2ba145754e33248356f8a6f84b1ed6.png" group-title="DEPORTES",Argentina - TNT Sports FHD
 http://ultra-premium-pro.xyz:8090/35megaplaytv/k1VGGuSC7c/37232
-#EXTINF:-1 tvg-id="" tvg-name="Argentina - TNT Sports FHD" tvg-logo="http://daleplay.biz:8080/images/0a2ba145754e33248356f8a6f84b1ed6.png" group-title="FUTBOL-ARGENTINA",Argentina - TNT Sports FHD
-http://ultra-premium-pro.xyz:8090/35megaplaytv/k1VGGuSC7c/51511
 #EXTINF:-1 tvg-id="" tvg-name="Argentina - TNT Sports HD" tvg-logo="http://daleplay.biz:8080/images/0a2ba145754e33248356f8a6f84b1ed6.png" group-title="DEPORTES",Argentina - TNT Sports HD
 http://ultra-premium-pro.xyz:8090/35megaplaytv/k1VGGuSC7c/37233
 #EXTINF:-1 tvg-id="" tvg-name="Argentina - TNT Sports HD" tvg-logo="http://daleplay.biz:8080/images/0a2ba145754e33248356f8a6f84b1ed6.png" group-title="DEPORTES",Argentina - TNT Sports HD
@@ -225,5 +223,144 @@ tvg-name="TyC Sports HD - ARG" tvg-logo="http://daleplay.biz:8080/images/b6f54a1
 http://ultra-premium-pro.xyz:8090/35megaplaytv/k1VGGuSC7c/37918
 #EXTINF:-1 tvg-id="" tvg-name="TyC Sports HQ - ARG" tvg-logo="http://daleplay.biz:8080/images/b6f54a1e4170f3d11a3efccc8fe1eeac.png" group-title="DEPORTES",TyC Sports HQ - ARG
 http://ultra-premium-pro.xyz:8090/35megaplaytv/k1VGGuSC7c/37919
-
+#EXTINF:-1 tvg-id="" tvg-name="TyC Sports HQ - ARG" tvg-logo="http://daleplay.biz:8080/images/b6f54a1e4170f3d11a3efccc8fe1eeac.png" group-title="DEPORTES",TyC Sports HQ - ARG
+http://ultra-premium-pro.xyz:8090/35megaplaytv/k1VGGuSC7c/37919
+F:-1 tvg-id="" tvg-name="Cine TV: STAR CHANNEL FHD (ARG)(Dual Audio)" tvg-logo="https://i.ibb.co/WyL4txb/STARCHANEL.jpg" group-title="ENTRETENIMIENTO",Cine TV: STAR CHANNEL FHD (ARG)(Dual Audio)
+http://ultra-premium-pro.xyz:8090/35megaplaytv/k1VGGuSC7c/104
+#EXTINF:-1 tvg-id="" tvg-name="Cine TV: STAR CHANNEL HD (CO)" tvg-logo="https://i.ibb.co/WyL4txb/STARCHANEL.jpg" group-title="ENTRETENIMIENTO",Cine TV: STAR CHANNEL HD (CO)
+http://ultra-premium-pro.xyz:8090/35megaplaytv/k1VGGuSC7c/103
+#EXTINF:-1 tvg-id="" tvg-name="Cine TV: STAR CHANNEL (MOVIL)" tvg-logo="https://i.ibb.co/WyL4txb/STARCHANEL.jpg" group-title="ENTRETENIMIENTO",Cine TV: STAR CHANNEL (MOVIL)
+http://ultra-premium-pro.xyz:8090/35megaplaytv/k1VGGuSC7c/102
+NF:-1 tvg-id="" tvg-name="Cine TV: STAR LIFE (CO)" tvg-logo="https://i.ibb.co/YpqDww8/STARLIFE.jpg" group-title="ENTRETENIMIENTO",Cine TV: STAR LIFE (CO)
+http://ultra-premium-pro.xyz:8090/35megaplaytv/k1VGGuSC7c/106
+#EXTINF:-1 tvg-id="" tvg-name="Cine TV: STAR LIFE (MOVIL)" tvg-logo="https://i.ibb.co/YpqDww8/STARLIFE.jpg" group-title="ENTRETENIMIENTO",Cine TV: STAR LIFE (MOVIL)
+http://ultra-premium-pro.xyz:8090/35megaplaytv/k1VGGuSC7c/105
+#EXTINF:-1 tvg-id="" tvg-name="Cine TV: STAR LIFE FHD (CO)" tvg-logo="https://i.ibb.co/YpqDww8/STARLIFE.jpg" group-title="ENTRETENIMIENTO",Cine TV: STAR LIFE FHD (CO)
+http://ultra-premium-pro.xyz:8090/35megaplaytv/k1VGGuSC7c/108
+#EXTINF:-1 tvg-id="" tvg-name="Cine TV: STAR CINEMA HD" tvg-logo="https://i.ibb.co/cyc5Gxv/STARCINEMA.jpg" group-title="ENTRETENIMIENTO",Cine TV: STAR CINEMA HD
+http://ultra-premium-pro.xyz:8090/35megaplaytv/k1VGGuSC7c/109
+#EXTINF:-1 tvg-id="" tvg-name="Cine TV: STAR CINEMA FHD" tvg-logo="https://i.ibb.co/cyc5Gxv/STARCINEMA.jpg" group-title="ENTRETENIMIENTO",Cine TV: STAR CINEMA FHD
+http://ultra-premium-pro.xyz:8090/35megaplaytv/k1VGGuSC7c/110
+#EXTINF:-1 tvg-id="" tvg-name="Cine TV: STAR ACTION (CO)" tvg-logo="https://i.ibb.co/THM6pYL/STARACTION.jpg" group-title="ENTRETENIMIENTO",Cine TV: STAR ACTION (CO)
+http://ultra-premium-pro.xyz:8090/35megaplaytv/k1VGGuSC7c/111
+#EXTINF:-1 tvg-id="" tvg-name="Cine TV: STAR ACTION (ARG)(Dual Audio)" tvg-logo="https://i.ibb.co/THM6pYL/STARACTION.jpg" group-title="ENTRETENIMIENTO",Cine TV: STAR ACTION (ARG)(Dual Audio)
+http://ultra-premium-pro.xyz:8090/35megaplaytv/k1VGGuSC7c/114
+#EXTINF:-1 tvg-id="" tvg-name="Cine TV: STAR ACTION FHD (CO)" tvg-logo="https://i.ibb.co/THM6pYL/STARACTION.jpg" group-title="ENTRETENIMIENTO",Cine TV: STAR ACTION FHD (CO)
+http://ultra-premium-pro.xyz:8090/35megaplaytv/k1VGGuSC7c/113
+#EXTINF:-1 tvg-id="" tvg-name="Cine TV: STAR ACTION HD (CO)" tvg-logo="https://i.ibb.co/THM6pYL/STARACTION.jpg" group-title="ENTRETENIMIENTO",Cine TV: STAR ACTION HD (CO)
+http://ultra-premium-pro.xyz:8090/35megaplaytv/k1VGGuSC7c/112
+#EXTINF:-1 tvg-id="" tvg-name="Cine TV: STAR CINEMA" tvg-logo="https://i.ibb.co/cyc5Gxv/STARCINEMA.jpg" group-title="ENTRETENIMIENTO",Cine TV: STAR CINEMA
+http://ultra-premium-pro.xyz:8090/35megaplaytv/k1VGGuSC7c/115
+#EXTINF:-1 tvg-id="" tvg-name="Cine TV: STAR CLASSICS HD" tvg-logo="https://i.ibb.co/x8S7HNb/STARCLASSICS.jpg" group-title="ENTRETENIMIENTO",Cine TV: STAR CLASSICS HD
+http://ultra-premium-pro.xyz:8090/35megaplaytv/k1VGGuSC7c/117
+#EXTINF:-1 tvg-id="" tvg-name="Cine TV: STAR CLASSICS FHD" tvg-logo="https://i.ibb.co/x8S7HNb/STARCLASSICS.jpg" group-title="ENTRETENIMIENTO",Cine TV: STAR CLASSICS FHD
+http://ultra-premium-pro.xyz:8090/35megaplaytv/k1VGGuSC7c/118
+#EXTINF:-1 tvg-id="" tvg-name="Cine TV: STAR COMEDY" tvg-logo="https://i.ibb.co/LdrjdBV/STARCOMEDY.jpg" group-title="ENTRETENIMIENTO",Cine TV: STAR COMEDY
+http://ultra-premium-pro.xyz:8090/35megaplaytv/k1VGGuSC7c/119
+#EXTINF:-1 tvg-id="" tvg-name="Cine TV: STAR COMEDY HD" tvg-logo="https://i.ibb.co/LdrjdBV/STARCOMEDY.jpg" group-title="ENTRETENIMIENTO",Cine TV: STAR COMEDY HD
+http://ultra-premium-pro.xyz:8090/35megaplaytv/k1VGGuSC7c/120
+#EXTINF:-1 tvg-id="" tvg-name="Cine TV: STAR COMEDY FHD" tvg-logo="https://i.ibb.co/LdrjdBV/STARCOMEDY.jpg" group-title="ENTRETENIMIENTO",Cine TV: STAR COMEDY FHD
+http://ultra-premium-pro.xyz:8090/35megaplaytv/k1VGGuSC7c/121
+#EXTINF:-1 tvg-id="" tvg-name="Cine TV: STAR COMEDY (ARG)(Dual Audio)" tvg-logo="https://i.ibb.co/LdrjdBV/STARCOMEDY.jpg" group-title="ENTRETENIMIENTO",Cine TV: STAR COMEDY (ARG)(Dual Audio)
+http://ultra-premium-pro.xyz:8090/35megaplaytv/k1VGGuSC7c/122
+#EXTINF:-1 tvg-id="" tvg-name="Cine TV: STAR FUN" tvg-logo="https://i.ibb.co/B2zVJDB/STARFUN.jpg" group-title="ENTRETENIMIENTO",Cine TV: STAR FUN
+http://ultra-premium-pro.xyz:8090/35megaplaytv/k1VGGuSC7c/123
+#EXTINF:-1 tvg-id="" tvg-name="Cine TV: STAR FUN HD" tvg-logo="https://i.ibb.co/B2zVJDB/STARFUN.jpg" group-title="ENTRETENIMIENTO",Cine TV: STAR FUN HD
+http://ultra-premium-pro.xyz:8090/35megaplaytv/k1VGGuSC7c/124
+#EXTINF:-1 tvg-id="" tvg-name="Cine TV: STAR FUN FHD" tvg-logo="https://i.ibb.co/B2zVJDB/STARFUN.jpg" group-title="ENTRETENIMIENTO",Cine TV: STAR FUN FHD
+http://ultra-premium-pro.xyz:8090/35megaplaytv/k1VGGuSC7c/125
+#EXTINF:-1 tvg-id="" tvg-name="Cine TV: STAR HITS" tvg-logo="https://i.ibb.co/zQctZ5B/STARHITS.jpg" group-title="ENTRETENIMIENTO",Cine TV: STAR HITS
+http://ultra-premium-pro.xyz:8090/35megaplaytv/k1VGGuSC7c/127
+#EXTINF:-1 tvg-id="" tvg-name="Cine TV: STAR FUN (ARG)(Dual Audio)" tvg-logo="https://i.ibb.co/B2zVJDB/STARFUN.jpg" group-title="ENTRETENIMIENTO",Cine TV: STAR FUN (ARG)(Dual Audio)
+http://ultra-premium-pro.xyz:8090/35megaplaytv/k1VGGuSC7c/126
+#EXTINF:-1 tvg-id="" tvg-name="Cine TV: STAR HITS HD" tvg-logo="https://i.ibb.co/zQctZ5B/STARHITS.jpg" group-title="ENTRETENIMIENTO",Cine TV: STAR HITS HD
+http://ultra-premium-pro.xyz:8090/35megaplaytv/k1VGGuSC7c/128
+#EXTINF:-1 tvg-id="" tvg-name="Cine TV: STAR HITS FHD" tvg-logo="https://i.ibb.co/zQctZ5B/STARHITS.jpg" group-title="ENTRETENIMIENTO",Cine TV: STAR HITS FHD
+http://ultra-premium-pro.xyz:8090/35megaplaytv/k1VGGuSC7c/129
+#EXTINF:-1 tvg-id="" tvg-name="Cine TV: STAR HITS (ARG)(Dual Audio)" tvg-logo="https://i.ibb.co/zQctZ5B/STARHITS.jpg" group-title="ENTRETENIMIENTO",Cine TV: STAR HITS (ARG)(Dual Audio)
+http://ultra-premium-pro.xyz:8090/35megaplaytv/k1VGGuSC7c/130
+#EXTINF:-1 tvg-id="" tvg-name="Cine TV: STAR SERIES" tvg-logo="https://i.ibb.co/VWnc34s/STARSERIES.jpg" group-title="ENTRETENIMIENTO",Cine TV: STAR SERIES
+http://ultra-premium-pro.xyz:8090/35megaplaytv/k1VGGuSC7c/131
+#EXTINF:-1 tvg-id="" tvg-name="Cine TV: STAR SERIES FHD" tvg-logo="https://i.ibb.co/VWnc34s/STARSERIES.jpg" group-title="ENTRETENIMIENTO",Cine TV: STAR SERIES FHD
+http://ultra-premium-pro.xyz:8090/35megaplaytv/k1VGGuSC7c/132
+#EXTINF:-1 tvg-id="" tvg-name="Cine TV: STAR SERIES (ARG)(Dual Audio)" tvg-logo="https://i.ibb.co/VWnc34s/STARSERIES.jpg" group-title="ENTRETENIMIENTO",Cine TV: STAR SERIES (ARG)(Dual Audio)
+http://ultra-premium-pro.xyz:8090/35megaplaytv/k1VGGuSC7c/133
+#EXTINF:-1 tvg-id="" tvg-name="Cine TV: HBO" tvg-logo="https://i.ibb.co/h1QwfKd/HBO.jpg" group-title="ENTRETENIMIENTO",Cine TV: HBO
+http://ultra-premium-pro.xyz:8090/35megaplaytv/k1VGGuSC7c/142
+#EXTINF:-1 tvg-id="" tvg-name="Cine TV: HBO HD" tvg-logo="https://i.ibb.co/h1QwfKd/HBO.jpg" group-title="ENTRETENIMIENTO",Cine TV: HBO HD
+http://ultra-premium-pro.xyz:8090/35megaplaytv/k1VGGuSC7c/143
+#EXTINF:-1 tvg-id="" tvg-name="Cine TV: HBO FHD" tvg-logo="https://i.ibb.co/h1QwfKd/HBO.jpg" group-title="ENTRETENIMIENTO",Cine TV: HBO FHD
+http://ultra-premium-pro.xyz:8090/35megaplaytv/k1VGGuSC7c/144
+#EXTINF:-1 tvg-id="" tvg-name="Cine TV: HBO FHD (ARG)(Dual Audio)" tvg-logo="https://i.ibb.co/h1QwfKd/HBO.jpg" group-title="ENTRETENIMIENTO",Cine TV: HBO FHD (ARG)(Dual Audio)
+http://ultra-premium-pro.xyz:8090/35megaplaytv/k1VGGuSC7c/145
+#EXTINF:-1 tvg-id="" tvg-name="Cine TV: HBO 2 HD" tvg-logo="https://i.ibb.co/0XZg6R7/HBO2.jpg" group-title="ENTRETENIMIENTO",Cine TV: HBO 2 HD
+http://ultra-premium-pro.xyz:8090/35megaplaytv/k1VGGuSC7c/147
+#EXTINF:-1 tvg-id="" tvg-name="Cine TV: HBO 2" tvg-logo="https://i.ibb.co/0XZg6R7/HBO2.jpg" group-title="ENTRETENIMIENTO",Cine TV: HBO 2
+http://ultra-premium-pro.xyz:8090/35megaplaytv/k1VGGuSC7c/146
+#EXTINF:-1 tvg-id="" tvg-name="Cine TV: HBO 2 FHD" tvg-logo="https://i.ibb.co/0XZg6R7/HBO2.jpg" group-title="ENTRETENIMIENTO",Cine TV: HBO 2 FHD
+http://ultra-premium-pro.xyz:8090/35megaplaytv/k1VGGuSC7c/148
+#EXTINF:-1 tvg-id="" tvg-name="Cine TV: HBO 2 FHD (ARG)(Dual Audio)" tvg-logo="https://i.ibb.co/0XZg6R7/HBO2.jpg" group-title="ENTRETENIMIENTO",Cine TV: HBO 2 FHD (ARG)(Dual Audio)
+http://ultra-premium-pro.xyz:8090/35megaplaytv/k1VGGuSC7c/149
+#EXTINF:-1 tvg-id="" tvg-name="Cine TV: HBO Family" tvg-logo="https://i.ibb.co/88mbrNn/HBOFAMILY.jpg" group-title="ENTRETENIMIENTO",Cine TV: HBO Family
+http://ultra-premium-pro.xyz:8090/35megaplaytv/k1VGGuSC7c/150
+#EXTINF:-1 tvg-id="" tvg-name="Cine TV: HBO Family HD" tvg-logo="https://i.ibb.co/88mbrNn/HBOFAMILY.jpg" group-title="ENTRETENIMIENTO",Cine TV: HBO Family HD
+http://ultra-premium-pro.xyz:8090/35megaplaytv/k1VGGuSC7c/151
+#EXTINF:-1 tvg-id="" tvg-name="Cine TV: HBO Family FHD (ARG)(Dual Audio)" tvg-logo="https://i.ibb.co/88mbrNn/HBOFAMILY.jpg" group-title="ENTRETENIMIENTO",Cine TV: HBO Family FHD (ARG)(Dual Audio)
+http://ultra-premium-pro.xyz:8090/35megaplaytv/k1VGGuSC7c/153
+#EXTINF:-1 tvg-id="" tvg-name="Cine TV: HBO PLUS" tvg-logo="https://i.ibb.co/42KnfJN/HBOPLUS.jpg" group-title="ENTRETENIMIENTO",Cine TV: HBO PLUS
+http://ultra-premium-pro.xyz:8090/35megaplaytv/k1VGGuSC7c/154
+#EXTINF:-1 tvg-id="" tvg-name="Cine TV: HBO PLUS HD" tvg-logo="https://i.ibb.co/42KnfJN/HBOPLUS.jpg" group-title="ENTRETENIMIENTO",Cine TV: HBO PLUS HD
+http://ultra-premium-pro.xyz:8090/35megaplaytv/k1VGGuSC7c/155
+#EXTINF:-1 tvg-id="" tvg-name="Cine TV: HBO PLUS FHD" tvg-logo="https://i.ibb.co/42KnfJN/HBOPLUS.jpg" group-title="ENTRETENIMIENTO",Cine TV: HBO PLUS FHD
+http://ultra-premium-pro.xyz:8090/35megaplaytv/k1VGGuSC7c/156
+#EXTINF:-1 tvg-id="" tvg-name="Cine TV: HBO PLUS (ARG)(Dual Audio)" tvg-logo="https://i.ibb.co/42KnfJN/HBOPLUS.jpg" group-title="ENTRETENIMIENTO",Cine TV: HBO PLUS (ARG)(Dual Audio)
+http://ultra-premium-pro.xyz:8090/35megaplaytv/k1VGGuSC7c/157
+#EXTINF:-1 tvg-id="" tvg-name="Cine TV: HBO Family FHD" tvg-logo="https://i.ibb.co/88mbrNn/HBOFAMILY.jpg" group-title="ENTRETENIMIENTO",Cine TV: HBO Family FHD
+http://ultra-premium-pro.xyz:8090/35megaplaytv/k1VGGuSC7c/152
+#EXTINF:-1 tvg-id="" tvg-name="Cine TV: HBO Signature (MOVIL)" tvg-logo="https://i.ibb.co/pKfmCx8/HBOSIGNATURE.jpg" group-title="ENTRETENIMIENTO",Cine TV: HBO Signature (MOVIL)
+http://ultra-premium-pro.xyz:8090/35megaplaytv/k1VGGuSC7c/158
+#EXTINF:-1 tvg-id="" tvg-name="Cine TV: HBO Signature HD" tvg-logo="https://i.ibb.co/pKfmCx8/HBOSIGNATURE.jpg" group-title="ENTRETENIMIENTO",Cine TV: HBO Signature HD
+http://ultra-premium-pro.xyz:8090/35megaplaytv/k1VGGuSC7c/160
+#EXTINF:-1 tvg-id="" tvg-name="Cine TV: HBO Signature FHD" tvg-logo="https://i.ibb.co/pKfmCx8/HBOSIGNATURE.jpg" group-title="ENTRETENIMIENTO",Cine TV: HBO Signature FHD
+http://ultra-premium-pro.xyz:8090/35megaplaytv/k1VGGuSC7c/161
+#EXTINF:-1 tvg-id="" tvg-name="Cine TV: HBO Subtitulado" tvg-logo="https://i.ibb.co/h1QwfKd/HBO.jpg" group-title="ENTRETENIMIENTO",Cine TV: HBO Subtitulado
+http://ultra-premium-pro.xyz:8090/35megaplaytv/k1VGGuSC7c/162
+#EXTINF:-1 tvg-id="" tvg-name="Cine TV: HBO Signature" tvg-logo="https://i.ibb.co/pKfmCx8/HBOSIGNATURE.jpg" group-title="ENTRETENIMIENTO",Cine TV: HBO Signature
+http://ultra-premium-pro.xyz:8090/35megaplaytv/k1VGGuSC7c/159
+#EXTINF:-1 tvg-id="" tvg-name="Cine TV: HBO Subtitulado FHD" tvg-logo="https://i.ibb.co/h1QwfKd/HBO.jpg" group-title="ENTRETENIMIENTO",Cine TV: HBO Subtitulado FHD
+http://ultra-premium-pro.xyz:8090/35megaplaytv/k1VGGuSC7c/163
+#EXTINF:-1 tvg-id="" tvg-name="Cine TV: HBO Mundi" tvg-logo="https://i.ibb.co/Hg50ZZ4/HBOMUNDI.jpg" group-title="ENTRETENIMIENTO",Cine TV: HBO Mundi
+http://ultra-premium-pro.xyz:8090/35megaplaytv/k1VGGuSC7c/164
+#EXTINF:-1 tvg-id="" tvg-name="Cine TV: HBO POP (MOVIL)" tvg-logo="https://i.ibb.co/VQLsWDt/HBOPOP.jpg" group-title="ENTRETENIMIENTO",Cine TV: HBO POP (MOVIL)
+http://ultra-premium-pro.xyz:8090/35megaplaytv/k1VGGuSC7c/165
+#EXTINF:-1 tvg-id="" tvg-name="Cine TV: HBO POP" tvg-logo="https://i.ibb.co/VQLsWDt/HBOPOP.jpg" group-title="ENTRETENIMIENTO",Cine TV: HBO POP
+http://ultra-premium-pro.xyz:8090/35megaplaytv/k1VGGuSC7c/166
+#EXTINF:-1 tvg-id="" tvg-name="Cine TV: HBO POP FHD" tvg-logo="https://i.ibb.co/VQLsWDt/HBOPOP.jpg" group-title="ENTRETENIMIENTO",Cine TV: HBO POP FHD
+http://ultra-premium-pro.xyz:8090/35megaplaytv/k1VGGuSC7c/167
+#EXTINF:-1 tvg-id="" tvg-name="Cine TV: HBO XTREME (ARG)(Dual Audio)" tvg-logo="https://i.ibb.co/K2y2KxG/HBOXTREME.jpg" group-title="ENTRETENIMIENTO",Cine TV: HBO XTREME (ARG)(Dual Audio)
+http://ultra-premium-pro.xyz:8090/35megaplaytv/k1VGGuSC7c/168
+#EXTINF:-1 tvg-id="" tvg-name="Cine TV: HBO XTREME FHD" tvg-logo="https://i.ibb.co/K2y2KxG/HBOXTREME.jpg" group-title="ENTRETENIMIENTO",Cine TV: HBO XTREME FHD
+http://ultra-premium-pro.xyz:8090/35megaplaytv/k1VGGuSC7c/170
+#EXTINF:-1 tvg-id="" tvg-name="Cine TV: TNT (MOVIL)" tvg-logo="https://i.ibb.co/0q21c8Q/TNT.jpg" group-title="ENTRETENIMIENTO",Cine TV: TNT (MOVIL)
+http://ultra-premium-pro.xyz:8090/35megaplaytv/k1VGGuSC7c/171
+#EXTINF:-1 tvg-id="" tvg-name="Cine TV: HBO XTREME" tvg-logo="https://i.ibb.co/K2y2KxG/HBOXTREME.jpg" group-title="ENTRETENIMIENTO",Cine TV: HBO XTREME
+http://ultra-premium-pro.xyz:8090/35megaplaytv/k1VGGuSC7c/169
+#EXTINF:-1 tvg-id="" tvg-name="Cine TV: TNT HD (CO)" tvg-logo="https://i.ibb.co/0q21c8Q/TNT.jpg" group-title="ENTRETENIMIENTO",Cine TV: TNT HD (CO)
+http://ultra-premium-pro.xyz:8090/35megaplaytv/k1VGGuSC7c/172
+#EXTINF:-1 tvg-id="" tvg-name="Cine TV: TNT FHD (CO)" tvg-logo="https://i.ibb.co/0q21c8Q/TNT.jpg" group-title="ENTRETENIMIENTO",Cine TV: TNT FHD (CO)
+http://ultra-premium-pro.xyz:8090/35megaplaytv/k1VGGuSC7c/173
+#EXTINF:-1 tvg-id="" tvg-name="Cine TV: TNT FHD (ARG)(Dual Audio)" tvg-logo="https://i.ibb.co/0q21c8Q/TNT.jpg" group-title="ENTRETENIMIENTO",Cine TV: TNT FHD (ARG)(Dual Audio)
+http://ultra-premium-pro.xyz:8090/35megaplaytv/k1VGGuSC7c/174
+#EXTINF:-1 tvg-id="" tvg-name="Cine TV: TNT SERIES HD (CO)" tvg-logo="https://i.ibb.co/KqtK9ZQ/TNTSERIES.jpg" group-title="ENTRETENIMIENTO",Cine TV: TNT SERIES HD (CO)
+http://ultra-premium-pro.xyz:8090/35megaplaytv/k1VGGuSC7c/176
+#EXTINF:-1 tvg-id="" tvg-name="TNT Series Full HD (ARG)(Dual Audio)" tvg-logo="https://static.epg.best/br/TNTSeries.br.png" group-title="ENTRETENIMIENTO",TNT Series Full HD (ARG)(Dual Audio)
+http://ultra-premium-pro.xyz:8090/35megaplaytv/k1VGGuSC7c/178
+#EXTINF:-1 tvg-id="" tvg-name="Cine TV: TNT SERIES (CO)" tvg-logo="https://i.ibb.co/KqtK9ZQ/TNTSERIES.jpg" group-title="ENTRETENIMIENTO",Cine TV: TNT SERIES (CO)
+http://ultra-premium-pro.xyz:8090/35megaplaytv/k1VGGuSC7c/175
+#EXTINF:-1 tvg-id="" tvg-name="Cine TV: STAR CINEMA FHD" tvg-logo="https://i.ibb.co/cyc5Gxv/STARCINEMA.jpg" group-title="ENTRETENIMIENTO",Cine TV: STAR CINEMA FHD
+http://ultra-premium-pro.xyz:8090/35megaplaytv/k1VGGuSC7c/116
+#EXTINF:-1 tvg-id="" tvg-name="Cine TV: STAR LIFE HD (CO)" tvg-logo="https://i.ibb.co/YpqDww8/STARLIFE.jpg" group-title="ENTRETENIMIENTO",Cine TV: STAR LIFE HD (CO)
+http://ultra-premium-pro.xyz:8090/35megaplaytv/k1VGGuSC7c/107
+#EXTINF:-1 tvg-id="" tvg-name="Cine TV: TNT SERIES FHD (CO)" tvg-logo="https://i.ibb.co/KqtK9ZQ/TNTSERIES.jpg" group-title="ENTRETENIMIENTO",Cine TV: TNT SERIES FHD (CO)
+http://ultra-premium-pro.xyz:8090/35megaplaytv/k1VGGuSC7c/177
 
