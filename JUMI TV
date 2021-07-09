@@ -1,14 +1,38 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Viuda Negra (2021) Black Widow 4K" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v1XE3dtqd9zsEET0EMkxBgXYP6T.jpg" group-title="VOK 4K - SOLO SMART TV",Viuda Negra (2021) Black Widow 4K
+http://ultra-premium-pro.xyz:8090/movie/35megaplaytv/k1VGGuSC7c/60289.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Viuda Negra (2021) Black Widow 1080p" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v1XE3dtqd9zsEET0EMkxBgXYP6T.jpg" group-title="VOD ESTRENOS 2021",Viuda Negra (2021) Black Widow 1080p
+http://ultra-premium-pro.xyz:8090/movie/35megaplaytv/k1VGGuSC7c/60287.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Viuda Negra (2021) Black Widow 720p" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v1XE3dtqd9zsEET0EMkxBgXYP6T.jpg" group-title="VOD ESTRENOS 2021",Viuda Negra (2021) Black Widow 720p
+http://ultra-premium-pro.xyz:8090/movie/35megaplaytv/k1VGGuSC7c/60288.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La guerra del mañana (2021) 4K" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hBcdtoe3Vu8MacviGjkJRd0U1BG.jpg" group-title="VOK 4K - SOLO SMART TV",La guerra del mañana (2021) 4K
+http://ultra-premium-pro.xyz:8090/movie/35megaplaytv/k1VGGuSC7c/58453.mkv
 #EXTINF:-1 tvg-id="" tvg-name="The Tomorrow War (2021) 720p" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8xgT9vDfT7zPvpBu2gO2l50etnR.jpg" group-title="VOD ESTRENOS 2021",The Tomorrow War (2021) 720p
 http://ultra-premium-pro.xyz:8090/movie/35megaplaytv/k1VGGuSC7c/58440.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Tomorrow War (2021) 1080p" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8xgT9vDfT7zPvpBu2gO2l50etnR.jpg" group-title="VOD ESTRENOS 2021",The Tomorrow War (2021) 1080p
+http://ultra-premium-pro.xyz:8090/movie/35megaplaytv/k1VGGuSC7c/58441.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Expediente Warren: Obligado por el demonio (2021) el conjuro 3 720p" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mmHryQX8LP1s3OEGtDpSaV7uraE.jpg" group-title="VOD ESTRENOS 2021",Expediente Warren: Obligado por el demonio (2021) el conjuro 3 720p
 http://ultra-premium-pro.xyz:8090/movie/35megaplaytv/k1VGGuSC7c/56849.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Cruella (2021) 4K OP" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5bsApWAUqb0jeXtHPjKQ6MZOtZJ.jpg" group-title="VOD ESTRENOS 2021",Cruella (2021) 4K OP
+#EXTINF:-1 tvg-id="" tvg-name="Expediente Warren: Obligado por el demonio (2021) el conjuro 3 1080p" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mmHryQX8LP1s3OEGtDpSaV7uraE.jpg" group-title="VOD ESTRENOS 2021",Expediente Warren: Obligado por el demonio (2021) el conjuro 3 1080p
+http://ultra-premium-pro.xyz:8090/movie/35megaplaytv/k1VGGuSC7c/56850.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Expediente Warren: Obligado por el demonio (2021) el conjuro 3 4K" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mmHryQX8LP1s3OEGtDpSaV7uraE.jpg" group-title="VOK 4K - SOLO SMART TV",Expediente Warren: Obligado por el demonio (2021) el conjuro 3 4K
+http://ultra-premium-pro.xyz:8090/movie/35megaplaytv/k1VGGuSC7c/56851.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cruella (2021) 4K OP" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5bsApWAUqb0jeXtHPjKQ6MZOtZJ.jpg" group-title="VOK 4K - SOLO SMART TV",Cruella (2021) 4K OP
 http://ultra-premium-pro.xyz:8090/movie/35megaplaytv/k1VGGuSC7c/56504.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Ejército de los muertos (2021) 4k" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zVXLDoEskRVUl8SaRh2lieY5STg.jpg" group-title="VOD ESTRENOS 2021",Ejército de los muertos (2021) 4k
+#EXTINF:-1 tvg-id="" tvg-name="Cruella (2021) 720p op" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5bsApWAUqb0jeXtHPjKQ6MZOtZJ.jpg" group-title="VOD ESTRENOS 2021",Cruella (2021) 720p op
+http://ultra-premium-pro.xyz:8090/movie/35megaplaytv/k1VGGuSC7c/56503.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cruella (2021) 1080p op" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5bsApWAUqb0jeXtHPjKQ6MZOtZJ.jpg" group-title="VOD ESTRENOS 2021",Cruella (2021) 1080p op
+http://ultra-premium-pro.xyz:8090/movie/35megaplaytv/k1VGGuSC7c/56502.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cruella (2021) 4K" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5bsApWAUqb0jeXtHPjKQ6MZOtZJ.jpg" group-title="VOK 4K - SOLO SMART TV",Cruella (2021) 4K
+http://ultra-premium-pro.xyz:8090/movie/35megaplaytv/k1VGGuSC7c/56495.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ejército de los muertos (2021) 4k" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zVXLDoEskRVUl8SaRh2lieY5STg.jpg" group-title="VOK 4K - SOLO SMART TV",Ejército de los muertos (2021) 4k
 http://ultra-premium-pro.xyz:8090/movie/35megaplaytv/k1VGGuSC7c/56496.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Mortal Kombat (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3tZwNIVrax1IV5BkGzWTYMmjYI5.jpg" group-title="VOD ESTRENOS 2021",Mortal Kombat (2021)
 http://ultra-premium-pro.xyz:8090/movie/35megaplaytv/k1VGGuSC7c/50166.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mortal Kombat (2021) 4K" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3tZwNIVrax1IV5BkGzWTYMmjYI5.jpg" group-title="VOK 4K - SOLO SMART TV",Mortal Kombat (2021) 4K
+http://ultra-premium-pro.xyz:8090/movie/35megaplaytv/k1VGGuSC7c/50167.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mortal Kombat (2021) 720p" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3tZwNIVrax1IV5BkGzWTYMmjYI5.jpg" group-title="VOD ESTRENOS 2021",Mortal Kombat (2021) 720p
+http://ultra-premium-pro.xyz:8090/movie/35megaplaytv/k1VGGuSC7c/50214.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Godzilla vs Kong (2021) 720p" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bnuC6hu7AB5dYW26A3o6NNLlIlE.jpg" group-title="VOD ESTRENOS 2021",Godzilla vs Kong (2021) 720p
 http://ultra-premium-pro.xyz:8090/movie/35megaplaytv/k1VGGuSC7c/40746.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Luca (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jTswp6KyDYKtvC52GbHagrZbGvD.jpg" group-title="VOD ESTRENOS 2021",Luca (2021)
@@ -17,9 +41,13 @@ http://ultra-premium-pro.xyz:8090/movie/35megaplaytv/k1VGGuSC7c/57979.mkv
 http://ultra-premium-pro.xyz:8090/movie/35megaplaytv/k1VGGuSC7c/40597.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Hunter Killer: Caza en las profundidades (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wYdNCLoAoycUGuIr7U3y9nNWGGt.jpg" group-title="VOD ACCIÓN",Hunter Killer: Caza en las profundidades (2018)
 http://ultra-premium-pro.xyz:8090/movie/35megaplaytv/k1VGGuSC7c/650.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Sin Remordimientos (2021) 4K" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oRFMWkP33VY1tpPMRqK4oDmZunI.jpg" group-title="VOD ESTRENOS 2021",Sin Remordimientos (2021) 4K
+#EXTINF:-1 tvg-id="" tvg-name="Spiral: Saw (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vgpzkh96GnlRxUYZuOpdZT78T2Q.jpg" group-title="VOD ESTRENOS 2021",Spiral: Saw (2021)
+http://ultra-premium-pro.xyz:8090/movie/35megaplaytv/k1VGGuSC7c/56834.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sin Remordimientos (2021) 4K" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oRFMWkP33VY1tpPMRqK4oDmZunI.jpg" group-title="VOK 4K - SOLO SMART TV",Sin Remordimientos (2021) 4K
 http://ultra-premium-pro.xyz:8090/movie/35megaplaytv/k1VGGuSC7c/52572.mkv
-#EXTINF:-1 tvg-id="" tvg-name="De amor y monstruos (2020) 4K" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r4Lm1XKP0VsTgHX4LG4syAwYA2I.jpg" group-title="VOD ESTRENOS 2021",De amor y monstruos (2020) 4K
+#EXTINF:-1 tvg-id="" tvg-name="Sin Remordimientos (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oRFMWkP33VY1tpPMRqK4oDmZunI.jpg" group-title="VOD ESTRENOS 2021",Sin Remordimientos (2021)
+http://ultra-premium-pro.xyz:8090/movie/35megaplaytv/k1VGGuSC7c/52574.mkv
+#EXTINF:-1 tvg-id="" tvg-name="De amor y monstruos (2020) 4K" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r4Lm1XKP0VsTgHX4LG4syAwYA2I.jpg" group-title="VOK 4K - SOLO SMART TV",De amor y monstruos (2020) 4K
 http://ultra-premium-pro.xyz:8090/movie/35megaplaytv/k1VGGuSC7c/45801.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Megalodon (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hES2eVAbVt08JJTqgu3jmI34Yxx.jpg" group-title="VOD ACCIÓN",Megalodon (2018)
 http://ultra-premium-pro.xyz:8090/movie/35megaplaytv/k1VGGuSC7c/646.mkv
@@ -27,3 +55,5 @@ http://ultra-premium-pro.xyz:8090/movie/35megaplaytv/k1VGGuSC7c/646.mkv
 http://ultra-premium-pro.xyz:8090/movie/35megaplaytv/k1VGGuSC7c/30391.mkv
 #EXTINF:-1 tvg-id="" tvg-name="El canto del lobo (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8oSxFcIxBcJqkajoRgEy4byQsBF.jpg" group-title="VOD ACCIÓN",El canto del lobo (2019)
 http://ultra-premium-pro.xyz:8090/movie/35megaplaytv/k1VGGuSC7c/568.mkv
+
+
