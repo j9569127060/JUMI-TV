@@ -363,4 +363,13 @@ http://ultra-premium-pro.xyz:8090/35megaplaytv/k1VGGuSC7c/116
 http://ultra-premium-pro.xyz:8090/35megaplaytv/k1VGGuSC7c/107
 #EXTINF:-1 tvg-id="" tvg-name="Cine TV: TNT SERIES FHD (CO)" tvg-logo="https://i.ibb.co/KqtK9ZQ/TNTSERIES.jpg" group-title="ENTRETENIMIENTO",Cine TV: TNT SERIES FHD (CO)
 http://ultra-premium-pro.xyz:8090/35megaplaytv/k1VGGuSC7c/177
-
+#XTINF:-1 tvg-id="" tvg-name="CINE| Paramount Channel HD" tvg-logo="https://i.ibb.co/CwFwNXY/PARAMOUNT.jpg" group-title="ENTRETENIMIENTO",CINE| Paramount Channel HD
+http://ultra-premium-pro.xyz:8090/35megaplaytv/k1VGGuSC7c/13815
+#EXTINF:-1 tvg-id="" tvg-name="CINE| Paramount Channel" tvg-logo="https://i.ibb.co/CwFwNXY/PARAMOUNT.jpg" group-title="ENTRETENIMIENTO",CINE| Paramount Channel
+http://ultra-premium-pro.xyz:8090/35megaplaytv/k1VGGuSC7c/13816
+#EXTINF:-1 tvg-id="" tvg-name="CINE| Paramount Network HD" tvg-logo="https://i.ibb.co/CwFwNXY/PARAMOUNT.jpg" group-title="ENTRETENIMIENTO",CINE| Paramount Network HD
+http://ultra-premium-pro.xyz:8090/35megaplaytv/k1VGGuSC7c/13817
+#EXTINF:-1 tvg-id="" tvg-name="CINE| PARAMOUNT NETWORK" tvg-logo="https://i.ibb.co/CwFwNXY/PARAMOUNT.jpg" group-title="ENTRETENIMIENTO",CINE| PARAMOUNT NETWORK
+http://ultra-premium-pro.xyz:8090/35megaplaytv/k1VGGuSC7c/13818
+#EXTINF:-1 tvg-id="" tvg-name="Resurgimiento de Momias (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tmghT8HaddVIS9hEXIOI9GuDchi.jpg" group-title="VOD ESTRENOS 2021",Resurgimiento de Momias (2021)
+http://ultra-premium-pro.xyz:8090/movie/35megaplaytv/k1VGGuSC7c/45653.mkv
