@@ -457,3 +457,21 @@ http://ultra-premium-pro.xyz:8090/35megaplaytv/k1VGGuSC7c/40550
 http://ultra-premium-pro.xyz:8090/35megaplaytv/k1VGGuSC7c/40715
 #EXTINF:-1 tvg-id="" tvg-name="El juego del asesino (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hI3Ic6tFF0jKVu5K415fITQd38C.jpg" group-title="VOD ESTRENOS 2021",El juego del asesino (2019)
 http://ultra-premium-pro.xyz:8090/movie/35megaplaytv/k1VGGuSC7c/22358.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Venganza bajo cero HD" tvg-logo="http://mylatinotv.com:8080/images/tmtNa7RbpOrWxFze8u5R4ZPyc8h_small.jpg" group-title="VOD ACCION",Venganza bajo cero HD
+http://star-flix.net:8080/movie/MEGA5penta/aAzhfPS7Gk/88417.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Venganza bajo cero SD" tvg-logo="http://mylatinotv.com:8080/images/tmtNa7RbpOrWxFze8u5R4ZPyc8h_small.jpg" group-title="VOD ACCION",Venganza bajo cero SD
+http://star-flix.net:8080/movie/MEGA5penta/aAzhfPS7Gk/88416.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Soul (2020)..." tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gI9oVLHXgPYidW2W4A7p1pYW9QB.jpg" group-title="ANIMADOS",Soul (2020)...
+http://star-flix.net:8080/movie/MEGA5penta/aAzhfPS7Gk/1185742.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Soul (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jl8rZYy7JmbWlBlvDCfwvDmGO0g.jpg" group-title="ANIMADOS",Soul (2020)
+http://star-flix.net:8080/movie/MEGA5penta/aAzhfPS7Gk/1178348.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Soul (Dual Audio)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jl8rZYy7JmbWlBlvDCfwvDmGO0g.jpg" group-title="VOK 4K - SOLO SMART TV",Soul (Dual Audio)
+http://star-flix.net:8080/movie/MEGA5penta/aAzhfPS7Gk/1178392.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Raya y el último dragón (2021) SD" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lEC7RHYJ7zidupb9TGJdjwiK4L4.jpg" group-title="VOD ESTRENOS 2021",Raya y el último dragón (2021) SD
+http://star-flix.net:8080/movie/MEGA5penta/aAzhfPS7Gk/1186430.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Raya y el último dragón (2021)SD." tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lEC7RHYJ7zidupb9TGJdjwiK4L4.jpg" group-title="VOK 4K - SOLO SMART TV",Raya y el último dragón (2021)SD.
+http://star-flix.net:8080/movie/MEGA5penta/aAzhfPS7Gk/1186431.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Raya y el último dragón (2021)." tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lEC7RHYJ7zidupb9TGJdjwiK4L4.jpg" group-title="ANIMADOS",Raya y el último dragón (2021).
+http://star-flix.net:8080/movie/MEGA5penta/aAzhfPS7Gk/1186432.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Purga: Infinita (2021) TS-cam" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5yvawJviOjb2nUFvHGXcCpGVTqy.jpg" group-title="VOD ESTRENOS 2021",La Purga: Infinita (2021) TS-cam
+http://star-flix.net:8080/movie/MEGA5penta/aAzhfPS7Gk/1202807.mkv
