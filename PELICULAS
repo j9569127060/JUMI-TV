@@ -1,1 +1,38 @@
+#EXTM3U
 
+
+#EXTINF:-1 tvg-id="" tvg-name="Los locos Addams (1991)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6RqnaUcDH2dpR2kmdnmSEHTcS0V.jpg" group-title="COMEDIA",Los locos Addams (1991)
+http://moontools.me:8080/movie/ULTRAPLAYVIP/jFE6CaxKxpkH/100679.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los locos Addams II (1993)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3ZcXBJq9DRxEXHEtgZTiwBERqW4.jpg" group-title="COMEDIA",Los locos Addams II (1993)
+http://moontools.me:8080/movie/ULTRAPLAYVIP/jFE6CaxKxpkH/1284720.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="El otro guardaespaldas (4K)" tvg-logo="https://i.imgur.com/Uwl4lYb.jpg" group-title="ACCION",El otro guardaespaldas (4K)
+http://moontools.me:8080/movie/ULTRAPLAYVIP/jFE6CaxKxpkH/89361.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El otro guardaespaldas 2 (SD) Lat" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lKAVUfLbRgjbhluFlXw6s2pcpoR.jpg" group-title="ACCION",El otro guardaespaldas 2 (SD) Lat
+http://moontools.me:8080/movie/ULTRAPLAYVIP/jFE6CaxKxpkH/1219508.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mortal Kombat (2021) 4k" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3tZwNIVrax1IV5BkGzWTYMmjYI5.jpg" group-title="ACCION",Mortal Kombat (2021) 4k
+http://moontools.me:8080/movie/ULTRAPLAYVIP/jFE6CaxKxpkH/1193103.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Samaritan (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4GVIfQVABjKuAWy3fvidPJZE52t.jpg" group-title="ACCION",Samaritan (2022)
+http://moontools.me:8080/movie/ULTRAPLAYVIP/jFE6CaxKxpkH/1315983.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="Terrifier (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6PQqC4SbY910VvyVad6mvsboILU.jpg" group-title="TERROR",Terrifier (2016)
+http://moontools.me:8080/movie/ULTRAPLAYVIP/jFE6CaxKxpkH/1329974.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Terrifier 2 (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yB8BMtvzHlMmRT1WmTQnGv1bcOK.jpg" group-title="TERROR",Terrifier 2 (2022)
+http://moontools.me:8080/movie/ULTRAPLAYVIP/jFE6CaxKxpkH/1331248.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="Terrifier 2 (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yB8BMtvzHlMmRT1WmTQnGv1bcOK.jpg" group-title="2022",Terrifier 2 (2022)
+http://moontools.me:8080/movie/ULTRAPLAYVIP/jFE6CaxKxpkH/1331248.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Black Adam (2022) tscam HD" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3eQMzMd2qsZkAJbk4wekp3Crg54.jpg" group-title="2022",Black Adam (2022) tscam HD
+http://moontools.me:8080/movie/ULTRAPLAYVIP/jFE6CaxKxpkH/1331892.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Memory: Asesino Sin Memoria (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gzHJ8Z9afJagPCCOaPETmsKY6WO.jpg" group-title="2022",Memory: Asesino Sin Memoria (2022)
+http://moontools.me:8080/movie/ULTRAPLAYVIP/jFE6CaxKxpkH/1277573.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Samaritan (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4GVIfQVABjKuAWy3fvidPJZE52t.jpg" group-title="2022",Samaritan (2022)
+http://moontools.me:8080/movie/ULTRAPLAYVIP/jFE6CaxKxpkH/1315983.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Morbius (2022) 60FPS" tvg-logo="https://i.imgur.com/RTkG1MD.jpg" group-title="2022",Morbius (2022) 60FPS
+http://moontools.me:8080/movie/ULTRAPLAYVIP/jFE6CaxKxpkH/1282115.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Top Gun: Maverick (2022) 4k" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AlWpEpQq0RgZIXVHAHZtFhEvRgd.jpg" group-title="2022",Top Gun: Maverick (2022) 4k
+http://moontools.me:8080/movie/ULTRAPLAYVIP/jFE6CaxKxpkH/1303842.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jurassic World Dominio (2022) 4k" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sXeWfpT1EhG7f4uBouqraOhmouH.jpg" group-title="2022",Jurassic World Dominio (2022) 4k
+http://moontools.me:8080/movie/ULTRAPLAYVIP/jFE6CaxKxpkH/1292121.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Pantera Negra: Wakanda por siempre (2022) HD,Q" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mYpT2R7639KvKZ668uoQGS2QNFp.jpg" group-title="2022",Pantera Negra: Wakanda por siempre (2022) HD,Q
+http://moontools.me:8080/movie/ULTRAPLAYVIP/jFE6CaxKxpkH/1346480.mkv
